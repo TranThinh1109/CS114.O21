@@ -44,7 +44,7 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 21522639      |Trần Tấn Thịnh          |[TranThinh1109](https://github.com/TranThinh1109)     |21522639@gm.uit.edu.vn   |
-| 2      | 19521623      | Lê Đào Xuân Thành      |[Lee-Thanh](https://github.com/Lee-Thanh)       |21522595@gm.uit.edu.vn   |
+| 2      | 21522595      | Lê Đào Xuân Thành      |[Lee-Thanh](https://github.com/Lee-Thanh)             |21522595@gm.uit.edu.vn   |
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
